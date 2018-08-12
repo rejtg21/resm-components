@@ -1,0 +1,11 @@
+{
+  "name": "react-button-load",
+  "version": "0.0.1",
+  "description": "A React component that handle the disabling of button when clicked synchronous/asynchronously and changing the text of it to progressive form",
+  "main": "./ButtonLoad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rej Mediodia (https://github.com/rejtg21)",
+  "license": "MIT"
+}
